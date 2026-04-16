@@ -12,7 +12,7 @@ main.py
   ├── engagement_detector.py   ← MediaPipe FaceMesh: head pose, gaze, EAR, MAR
   ├── attention_classifier.py  ← Rule-based classifier → Focused / Listening / Unfocused / Distracted / Sleepy
   ├── metrics_engine.py        ← Aggregates frames → CAS, FSI, DD, PES
-  ├── report_generator.py      ← Claude API → natural language session report
+  ├── report_generator.py      ← natural language session report
   └── visualizer.py            ← Matplotlib dashboard charts
 ```
 
@@ -154,7 +154,7 @@ classroom_analyzer/
 ├── engagement_detector.py   ← Face/pose detection
 ├── attention_classifier.py  ← State classification
 ├── metrics_engine.py        ← KPI computation
-├── report_generator.py      ← Claude API report
+├── report_generator.py      ← report
 ├── visualizer.py            ← Charts & dashboard
 ├── requirements.txt
 ├── README.md
