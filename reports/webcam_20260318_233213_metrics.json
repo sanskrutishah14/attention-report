@@ -1,0 +1,22 @@
+{
+  "session_id": "webcam_20260318_233213",
+  "class_attention_score": 84.0,
+  "focus_stability_index": 0.677,
+  "disengagement_duration_pct": 19.7,
+  "participation_equity_score": 1.044,
+  "engagement_level": "High",
+  "state_distribution": {
+    "Focused": 80.3,
+    "Listening": 0.0,
+    "Unfocused": 0.0,
+    "Distracted": 18.2,
+    "Sleepy": 1.5
+  },
+  "attention_timeline": [
+    {
+      "minute": 0,
+      "avg_score": 84.0,
+      "dominant_state": "Focused"
+    }
+  ]
+}

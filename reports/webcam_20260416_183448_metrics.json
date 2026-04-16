@@ -1,0 +1,32 @@
+{
+  "session_id": "webcam_20260416_183448",
+  "class_attention_score": 80.9,
+  "focus_stability_index": 0.692,
+  "disengagement_duration_pct": 13.1,
+  "participation_equity_score": 1.048,
+  "engagement_level": "High",
+  "state_distribution": {
+    "Focused": 73.3,
+    "Listening": 1.8,
+    "Unfocused": 10.5,
+    "Distracted": 10.5,
+    "Sleepy": 4.0
+  },
+  "attention_timeline": [
+    {
+      "minute": 0,
+      "avg_score": 76.2,
+      "dominant_state": "Focused"
+    },
+    {
+      "minute": 1,
+      "avg_score": 82.6,
+      "dominant_state": "Focused"
+    },
+    {
+      "minute": 2,
+      "avg_score": 84.5,
+      "dominant_state": "Focused"
+    }
+  ]
+}
